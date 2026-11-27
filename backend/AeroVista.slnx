@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AeroVista.API/AeroVista.API.csproj" />
+  <Project Path="AeroVista.Application/AeroVista.Application.csproj" />
+  <Project Path="AeroVista.Domain/AeroVista.Domain.csproj" />
+  <Project Path="AeroVista.Infrastructure/AeroVista.Infrastructure.csproj" />
+</Solution>
