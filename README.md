@@ -21,6 +21,7 @@ A production-style **ASP.NET Core 9** backend for a flight booking platform. Fea
 ---
 
 ## 🏗️ Architecture
+```
 AeroVista/
 ├── AeroVista.Domain/ # Entities, enums (no dependencies)
 │ └── Entities/ # User, Flight, Booking, RefreshToken
@@ -39,7 +40,7 @@ AeroVista/
 └── AeroVista.API/ # HTTP layer
 ├── Controllers/ # Auth, Profile, Flights, Bookings, Admin
 └── Program.cs # DI, JWT, CORS, Swagger
-
+```
 
 **Dependency direction:** `API → Infrastructure → Application → Domain` (no reverse references).
 
