@@ -123,6 +123,17 @@ Edit AeroVista.API/appsettings.json:
 dotnet ef database update --project AeroVista.Infrastructure --startup-project AeroVista.API
 ```
 
+# ✈️ AeroVista — Frontend
+
+![alt text](https://github.com/ahsanx83/AeroVista/blob/main/Images/S1.png)
+![alt text](https://github.com/ahsanx83/AeroVista/blob/main/Images/S2.png)
+![alt text](https://github.com/ahsanx83/AeroVista/blob/main/Images/S3.png)
+![alt text](https://github.com/ahsanx83/AeroVista/blob/main/Images/S4.png)
+![alt text](https://github.com/ahsanx83/AeroVista/blob/main/Images/S5.png)
+![alt text](https://github.com/ahsanx83/AeroVista/blob/main/Images/S6.png)
+
+```
+
 ### 5. Run
 ```
 dotnet run --project AeroVista.API
