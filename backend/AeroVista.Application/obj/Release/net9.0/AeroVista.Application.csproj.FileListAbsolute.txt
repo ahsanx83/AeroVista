@@ -1,0 +1,15 @@
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\bin\Release\net9.0\AeroVista.Application.deps.json
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\bin\Release\net9.0\AeroVista.Application.dll
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\bin\Release\net9.0\AeroVista.Application.pdb
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\bin\Release\net9.0\AeroVista.Domain.dll
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\bin\Release\net9.0\AeroVista.Domain.pdb
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\obj\Release\net9.0\AeroVista.Application.csproj.AssemblyReference.cache
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\obj\Release\net9.0\AeroVista.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\obj\Release\net9.0\AeroVista.Application.AssemblyInfoInputs.cache
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\obj\Release\net9.0\AeroVista.Application.AssemblyInfo.cs
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\obj\Release\net9.0\AeroVista.Application.csproj.CoreCompileInputs.cache
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\obj\Release\net9.0\AeroVist.F971583B.Up2Date
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\obj\Release\net9.0\AeroVista.Application.dll
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\obj\Release\net9.0\refint\AeroVista.Application.dll
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\obj\Release\net9.0\AeroVista.Application.pdb
+C:\Users\aalib\Documents\App\AeroVista\AeroVista.Application\obj\Release\net9.0\ref\AeroVista.Application.dll

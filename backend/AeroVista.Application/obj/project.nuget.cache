@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "38+oijTffrU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aalib\\Documents\\App\\AeroVista\\AeroVista.Application\\AeroVista.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aalib\\.nuget\\packages\\fluentvalidation\\11.12.0\\fluentvalidation.11.12.0.nupkg.sha512",
+    "C:\\Users\\aalib\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.12.0\\fluentvalidation.dependencyinjectionextensions.11.12.0.nupkg.sha512",
+    "C:\\Users\\aalib\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.23\\microsoft.extensions.configuration.abstractions.9.0.23.nupkg.sha512",
+    "C:\\Users\\aalib\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.23\\microsoft.extensions.dependencyinjection.abstractions.9.0.23.nupkg.sha512",
+    "C:\\Users\\aalib\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.23\\microsoft.extensions.logging.abstractions.9.0.23.nupkg.sha512",
+    "C:\\Users\\aalib\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.23\\microsoft.extensions.primitives.9.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

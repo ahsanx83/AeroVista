@@ -1,0 +1,143 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AeroVista.Application/1.0.0": {
+        "dependencies": {
+          "AeroVista.Domain": "1.0.0",
+          "FluentValidation": "11.12.0",
+          "FluentValidation.DependencyInjectionExtensions": "11.12.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.23",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.23"
+        },
+        "runtime": {
+          "AeroVista.Application.dll": {}
+        }
+      },
+      "FluentValidation/11.12.0": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.12.0.0"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.12.0": {
+        "dependencies": {
+          "FluentValidation": "11.12.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.23"
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.12.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/9.0.23": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "9.0.23"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.2326.52216"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.23": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.2326.52216"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/9.0.23": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.23"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.2326.52216"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/9.0.23": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.2326.52216"
+          }
+        }
+      },
+      "AeroVista.Domain/1.0.0": {
+        "runtime": {
+          "AeroVista.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AeroVista.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/11.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wim3rI1nGZKO5S/lgJ0ZpD3W/uu1CECoJ8pETzC8av34ejr+jCDr4paKhSJRG0Ltcv8UjdxtYCynG+RUEfEUDA==",
+      "path": "fluentvalidation/11.12.0",
+      "hashPath": "fluentvalidation.11.12.0.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lS+nClm9NEROCD5ITprZq9bVZEAoTyUb42xbm8Z80pHdRPdExISaypEZiLIJWDLfq2/j64sZgUcmgm7hjrZS+Q==",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.12.0",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.11.12.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/9.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ROuwKeA4tvXJcHvIqy6yFDaxbVJGjbSiSsY9Cvo7ZO6MRavCv+HWJ++7zO3tpdTEjCO+qNQctkRTPhaGXJo0zQ==",
+      "path": "microsoft.extensions.configuration.abstractions/9.0.23",
+      "hashPath": "microsoft.extensions.configuration.abstractions.9.0.23.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2q60LgJHMtJXWPvuOPOkPf1VUdPhdxrifB8y45eSzE2yCDcsM33oEkiSZv5uGo5Xzm/L8R/KaEce9z0F2CpxvQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.23",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.23.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/9.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8MEyxyKTME/AlM5w4kz0PxsUsiuHWOGBtl/bNgJHcVyBkBWRuWR3w3grESdmpvIU/CJ2KR2dmpM88N3gCaUbdA==",
+      "path": "microsoft.extensions.logging.abstractions/9.0.23",
+      "hashPath": "microsoft.extensions.logging.abstractions.9.0.23.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/9.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-exasnJ2Jqab52j2z4yyNUH3k8eA1lPJetl7ULYSAYcIA+jEnnfQy28WUed7sGQYm+XjGXoSH1vucSigkdKqaMg==",
+      "path": "microsoft.extensions.primitives/9.0.23",
+      "hashPath": "microsoft.extensions.primitives.9.0.23.nupkg.sha512"
+    },
+    "AeroVista.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
