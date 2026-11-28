@@ -127,6 +127,10 @@ dotnet ef database update --project AeroVista.Infrastructure --startup-project A
 ### 5. Run
 ```
 dotnet run --project AeroVista.API
+
+Sample User: kamal@ymail.com
+Sample Password: 12345678
+Flight Search Date: 30 Nov, 2026
 ```
 
 # ✈️ AeroVista — Frontend
